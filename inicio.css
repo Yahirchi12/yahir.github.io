@@ -1,0 +1,24 @@
+.yes{
+    width: 90%;
+    height: auto;
+    background: #E9C46A;
+    margin: 5% auto;
+    padding: 20px;
+    border-radius: 20px;
+}
+.yes .titsec{
+    color: black;
+    font-family: 'Rubik', sans-serif;
+    font-size: xx-large;
+    text-align: center;
+    font-weight: bolder;
+    border-bottom: 2px white dashed;
+}
+.yes .dentro{
+    color: black;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight: bolder;
+    font-size: large;
+    display: inline;
+    margin-right: 10px ;
+}
